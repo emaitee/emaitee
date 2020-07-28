@@ -2,12 +2,14 @@
 <h1 align="center">⚡️ Hi, I'm Mustapha Issa Toyin ⚡️</h1>
 <h4 align="center"><a href="https://twitter.com/dev_emaitee">Twitter</a> &bull; <a href="https://medium.com/@mustaphaissatoyin">Blog</a> &bull; <a href="https://www.linkedin.com/in/mustapha-issa-toyin-67733489/">LinkedIn</a></h4>
 
-🔭 I’m currently working on [mylikita](https://mylikita.clinic)
-🌱 I’m currently learning Data Science
-💬 Ask me about JavaScript and React
-📫 How to reach me: [issatoyin@gmail.com](mailto:issatoyin@gmail.com)
-😄 Pronouns: he/him
-🎧 Listening to: blank
+----
+
+- 🔭 I’m currently working on [mylikita](https://mylikita.clinic)
+- 🌱 I’m currently learning Data Science
+- 💬 Ask me about JavaScript and React
+- 📫 How to reach me: [issatoyin@gmail.com](mailto:issatoyin@gmail.com)
+- 😄 Pronouns: he/him
+- 🎧 Listening to: blank
 
 [![Mustapha's github stats](https://github-readme-stats.vercel.app/api?username=emaitee&count_private=true&show_icons=true&theme=radical)](https://github.com/emaitee/github-readme-stats)
 <!--
