@@ -28,3 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Github Stats -->
+
+## :fire: Github Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emaitee&theme=merko&hide_border=true&border_radius=3&card_width=490)](https://git.io/streak-stats)
