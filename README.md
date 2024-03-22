@@ -5,7 +5,7 @@
 ----
 
 - 🔭 I’m currently working on [mylikita](https://mylikita.clinic)
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently exploring NLP for Healthcare
 - 💬 Ask me about JavaScript, React and React Native
 - 📫 How to reach me: [issatoyin@gmail.com](mailto:issatoyin@gmail.com)
 - 😄 Pronouns: he/him
