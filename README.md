@@ -4,7 +4,7 @@
 
 ----
 
-- 🔭 I’m currently working on [mylikita](https://mylikita.clinic)
+- 🔭 I’m currently working on [mylikita](https://mylikita.com)
 - 🌱 I’m currently exploring NLP for Healthcare
 - 💬 Ask me about JavaScript, React and React Native
 - 📫 How to reach me: [issatoyin@gmail.com](mailto:issatoyin@gmail.com)
